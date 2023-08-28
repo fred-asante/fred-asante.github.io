@@ -14,4 +14,4 @@ My research interests focus on managing uncertainty in supply chains and underst
 
 I am on the 2023-2024 academic job market.
 
-See [here](/publications) for more about my research.
+See [here](/Research) for more about my research.

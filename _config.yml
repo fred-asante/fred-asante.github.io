@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Elisha Yu"
-  avatar           : "elisha_profile.jpg"
+  avatar           : /images/elisha_profile.jpg
   bio              : "Ph.D. Candidate"
   location         :
   employer         : "Cornell University"
