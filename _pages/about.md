@@ -1,36 +1,17 @@
 ---
-layout: archive
-title: "Research"
-permalink: /Research/
+permalink: /
+title: "About me"
+excerpt: "About me"
 author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
+hahaha I am a fifth-year PhD candidate in Operations, Technology & Information Management in Johnson Graduate School of Management at [Cornell University](https://www.johnson.cornell.edu/), where I am very fortunate to be advised by Prof. [Elena Belavina](https://sha.cornell.edu/faculty-research/faculty/eb733/) (Chair), Prof. [Li Chen](https://www.johnson.cornell.edu/faculty-research/faculty/lc785/) and Prof. [Karan Girotra](https://www.johnson.cornell.edu/faculty-research/faculty/kg488/).
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+My research interests focus on managing uncertainty in supply chains and understanding its implications for operational, financial and environmental performance. My current work explores data-driven decision making in multi-agent environments, with a particular focus on the impact of algorithmic competition on supply chain performance in the presence of vertical competition.
 
-{% include base_path %}
+I am on the 2023-2024 academic job market.
 
-## Publication
-* "Managing a Hybrid RDC-DC Inventory System." Joint work with Tong Wang and Chaolin Yang. **Production and Operations Management** 2021, 30: 3679-3697. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13458)
-
-<div>
-  <button type="button" class="collapsible">Abstract</button>
-  <div class="content">
-    <p>This is a collapsible abstract.</p>
-  </div>
-</div>
-
-
-## Working Papers
-* "Optimal Cash Management with Payables Finance." Joint work with Li Chen and Xiaobo Ding. Major revision at **Operations Research**. [[Document]](/files/scf.pdf)
-
-
-* "Variability Propagation in Perishable Product Supply Chains." Joint work with Elena Belavina. Under review. [[Document]](/files/var_prop.pdf)
-
-
-* "Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency." Joint work with Elena Belavina and Karan Girotra. In progress.
-
-
-* "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure." Joint work with Li Chen. In progress.
+See [here](/publications) for more about my research.
