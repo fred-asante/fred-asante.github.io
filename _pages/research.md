@@ -5,7 +5,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-
+* **"Real Earnings Management and Innovation Externalization: Evidence from Corporate Venture Capital"** Dissertation
 
 * **"New Accounting Standards and the Performance of Quantitative Investors"** with Travis Dyer and Nicholas Guest
   * Revise & Resubmit at Journal of Accounting and Economics
