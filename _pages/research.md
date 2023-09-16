@@ -6,13 +6,6 @@ author_profile: true
 ---
 
 
-<div>
-  <button type="button" class="collapsible">Abstract</button>
-  <div class="content">
-    <p>This is a collapsible abstract.</p>
-  </div>
-</div>
----
 
 * **"New Accounting Standards and the Performance of Quantitative Investors"** with Travis Dyer and Nicholas Guest
   * Revise & Resubmit at Journal of Accounting and Economics
