@@ -11,24 +11,29 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Experience
-### Co-instructor
-* NCCY 5090 (Fall 2021): Managing Operations (MBA Core)
-  * Review session instructor, 4.86/5.00
-  * [Teaching moments](/teaching_pics).
 
-* HADM 9320 (Spring 2022): Foundations of Operations Management II (PhD Seminar)
-  * Invited to give a guest lecture
+### Instructor – Cornell University
+    * NCC 5500 Financial Accounting	- Fall 2022
+    * Instructor Rating: 4.7/5.0
+    * NCC 5500 Financial Accounting	- Fall 2021
+    * Instructor Rating: 4.4/5.0
 
-### Teaching Assistant
-* BANA 6420 (Spring 2023): Supply Chain Analytics (MBA Elective)
-* NCCT 5080 (Winter 2022, 2023): Managing Operations (Cornell-Tsinghua Finance MBA)
-* NBAB 6750 (Fall 2022): Leading Digital Transformation and Innovation (EMBA)
-* NBA 6410 (Fall 2021): Supply Chain Strategy (MBA Elective)
-* NCCY 5080 (Fall 2021): Operations Management (MBA Core)
-* MGMT 5080 (Spring 2020): Operations Management (MBA Core)
-* HADM 2010 (Spring 2020): Hospitality Quantitative Analysis (Undergraduate)
+### Teaching Assistant – Cornell University
+* NCC 5060 Managerial Finance	- Summer 2021
+    * Prof. Lin William Cong
+* NCC 5000 Financial Accounting	- Fall 2020
+    * Prof. Luo Zuo
+* NBAB 5020 Management Accounting	- Summer 2020
+    * Prof. Robert Bloomfield
 
-## Services
-* Session Chair for 2022, 2023 INFORMS Annual Meeting.
-* Co-chair for 2020-2021 Cornell Johnson OTIM PhD Forum.
+### Teaching Assistant – University of Toronto
+* RSM 220 Intermediate Financial Accounting I - Spring 2017
+    * Prof. Baohua Xin
+* RSM 230 Financial Markets	- Spring 2017
+    * Prof. Amy Kwan
+* RSM 424 Canadian Income Taxation - Fall 2016
+    * Prof. Matthew Roman
+* RSM 221 Intermediate Financial Accounting II 	- Fall 2016
+    * Prof. Scott Liao
+* RSM 222 Management Accounting I	- Spring 2016
+    * Prof. Amy Kwan

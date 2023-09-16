@@ -5,22 +5,6 @@ permalink: /Research/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Research"
-permalink: /publications/
-author_profile: true
----
-
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-## Publication
-* "Managing a Hybrid RDC-DC Inventory System." Joint work with Tong Wang and Chaolin Yang. **Production and Operations Management** 2021, 30: 3679-3697. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13458)
 
 <div>
   <button type="button" class="collapsible">Abstract</button>
@@ -28,16 +12,13 @@ author_profile: true
     <p>This is a collapsible abstract.</p>
   </div>
 </div>
+---
+
+* **"New Accounting Standards and the Performance of Quantitative Investors"** with Travis Dyer and Nicholas Guest
+  * Revise & Resubmit at Journal of Accounting and Economics
+  * Abstract: We examine quantitative investors’ ability to navigate a common and occasionally material change to the financial data generating process: new accounting standards. We compare quantitative investors to traditional “discretionary” investors who rely heavily on human discretion to make investment decisions. We find that returns of quantitative mutual funds temporarily decrease relative to discretionary funds following the implementation of standards that change the definition of key accounting variables. Our result is stronger for quantitative value funds, which rely heavily on accounting data, and for quantitative funds using high levels of accounting terminology in their prospectuses. When we further investigate funds’ operations, we observe excess portfolio turnover following the implementation of accounting standards. Relatedly, quantitative underperformance is concentrated among funds holding more stocks. Overall, our results highlight a significant processing cost associated with accounting regulation that could become even more significant as more investors turn to quantitative strategies.
 
 
-## Working Papers
-* "Optimal Cash Management with Payables Finance." Joint work with Li Chen and Xiaobo Ding. Major revision at **Operations Research**. [[Document]](/files/scf.pdf)
-
-
-* "Variability Propagation in Perishable Product Supply Chains." Joint work with Elena Belavina. Under review. [[Document]](/files/var_prop.pdf)
-
-
-* "Data-driven Algorithms in the Supply Chain: Collusion, Anarchy and Efficiency." Joint work with Elena Belavina and Karan Girotra. In progress.
-
-
-* "Platform Competition with Two-Sided Multihoming: Network Value and Payment Structure." Joint work with Li Chen. In progress.
+* **Audit Partners’ Cultural Heritage and Audit Outcomes** with Inder Khurana, Bing Li, and Kelvin Yeung
+  * Under review
+  * Abstract: Economic theories on attitude formation emphasize that culture plays a fundamental role in shaping individual beliefs and preferences. Building on this work, we document robust evidence that audit partners who descended from trusting cultures are less likely to issue going concern opinions relative to their peers. This effect is not driven by trusting partners being gullible and failing to issue going concern opinions when their clients subsequently go bankrupt. Instead, this effect is driven by trusting partners not being excessively conservative and committing fewer Type I errors. Consistent with this interpretation, we find no evidence that trusting partners are associated with lower client financial reporting quality. Further analyses reveal that cultural trust matters less when a partner has more industry-specific experience or has less influence on an audit. Collectively, our findings provide novel evidence on whether and under what conditions audit partners’ cultural trust influences the assurance of accounting information.
