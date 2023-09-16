@@ -13,9 +13,9 @@ author_profile: true
 
 
 ### Instructor – Cornell University
-    * NCC 5500 Financial Accounting	- Fall 2022
+* NCC 5500 Financial Accounting	- Fall 2022
     * Instructor Rating: 4.7/5.0
-    * NCC 5500 Financial Accounting	- Fall 2021
+* NCC 5500 Financial Accounting	- Fall 2021
     * Instructor Rating: 4.4/5.0
 
 ### Teaching Assistant – Cornell University
