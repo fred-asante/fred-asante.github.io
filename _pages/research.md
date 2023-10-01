@@ -5,6 +5,16 @@ permalink: /Research/
 author_profile: true
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9YXS1VYPHZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9YXS1VYPHZ');
+</script>
+
 * **"Real Earnings Management and Innovation Externalization: Evidence from Corporate Venture Capital"** Dissertation
 
 * **"New Accounting Standards and the Performance of Quantitative Investors"** with Travis Dyer and Nicholas Guest
