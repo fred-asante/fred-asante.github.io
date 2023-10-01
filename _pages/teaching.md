@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Teaching"
-permalink: /Teaching/
-author_profile: true
----
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9YXS1VYPHZ"></script>
 <script>
@@ -15,6 +8,12 @@ author_profile: true
   gtag('config', 'G-9YXS1VYPHZ');
 </script>
 
+---
+layout: archive
+title: "Teaching"
+permalink: /Teaching/
+author_profile: true
+---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
