@@ -1,13 +1,3 @@
----
-permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9YXS1VYPHZ"></script>
 <script>
@@ -17,6 +7,16 @@ redirect_from:
 
   gtag('config', 'G-9YXS1VYPHZ');
 </script>
+
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
 
 I am a fifth-year PhD candidate in Accounting in Johnson Graduate School of Management at [Cornell University](https://www.johnson.cornell.edu/), where I am very fortunate to be advised by Prof. [Sanjeev Bhojraj](https://www.johnson.cornell.edu/faculty-research/faculty/sb235/) (Chair), Prof. [Luo Zuo](https://www.johnson.cornell.edu/faculty-research/faculty/lz352/) and Prof. [Travis Dyer](https://marriott.byu.edu/directory/details?id=8659).
 
