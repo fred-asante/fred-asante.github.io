@@ -1,10 +1,3 @@
----
-layout: archive
-title: "Research"
-permalink: /Research/
-author_profile: true
----
-
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9YXS1VYPHZ"></script>
 <script>
@@ -14,6 +7,14 @@ author_profile: true
 
   gtag('config', 'G-9YXS1VYPHZ');
 </script>
+
+---
+layout: archive
+title: "Research"
+permalink: /Research/
+author_profile: true
+---
+
 
 * **"Real Earnings Management and Innovation Externalization: Evidence from Corporate Venture Capital"** Dissertation
 
