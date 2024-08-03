@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate in Accounting in Johnson Graduate School of Management at [Cornell University](https://www.johnson.cornell.edu/), where I am very fortunate to be advised by Prof. [Sanjeev Bhojraj](https://www.johnson.cornell.edu/faculty-research/faculty/sb235/) (Chair), Prof. [Luo Zuo](https://www.johnson.cornell.edu/faculty-research/faculty/lz352/) and Prof. [Travis Dyer](https://marriott.byu.edu/directory/details?id=8659).
+I am an assistant professor at the Stan Ross Department of Accountancy, Baruch College. 
 
-I use archival methods to examine issues related to financial reporting. Broadly speaking, I am interested in how financial information is produced and utilized in the capital markets. More specifically, my current research interest lies in emerging technologies, real effects of accounting, and the changing public-private firm dynamics. My other strand of research studies how individual characteristics and behavior shape the information environment. 
-
-I am on the 2023-2024 academic job market.
+I hold a Ph.D. in accounting from the Johnson Graduate School of Management at Cornell University. In my research, I use archival methods to examine issues related to financial reporting. Broadly speaking, I am interested in how financial information is produced and utilized in the capital markets. More specifically, my current research interest lies in emerging technologies, real effects of accounting, and the changing public-private firm dynamics. My other strand of research studies how individual characteristics and behavior shape the information environment. 
 
 See [here](/Research/) for more about my research.
