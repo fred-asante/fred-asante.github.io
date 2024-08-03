@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Elisha Yu"
   avatar           : elisha_profile_2.jpg
-  bio              : "Ph.D. Candidate"
-  location         :
-  employer         : "Cornell University"
+  bio              : "Assistant Professor @ Baruch College"
+  location         : "New York City"
+  employer         : # "Baruch College"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
   email            : "jy895@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.johnson.cornell.edu/programs/phd-program/current-students/jy895/"
+  uri              : # "https://www.johnson.cornell.edu/programs/phd-program/current-students/jy895/"
   bitbucket        :
   codepen          :
   dribbble         :
