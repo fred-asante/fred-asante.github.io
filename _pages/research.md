@@ -8,7 +8,7 @@ author_profile: true
 **Publication**
 
 * **"New Accounting Standards and the Performance of Quantitative Investors"** with Travis Dyer and Nicholas Guest
-  * Forthcoming, <em>Journal of Accounting and Economics</em>
+  * <em>Journal of Accounting and Economics</em>, Forthcoming
   * Abstract: We examine quantitative investors’ ability to navigate a common and occasionally material change to the financial data generating process: new accounting standards. Returns of quantitative mutual funds temporarily decrease relative to funds that rely more heavily on human discretion following the implementation of a few standards that significantly change key financial statement variables; however, other standards do not appear to have a differential effect. Our result is stronger for quantitative funds using more accounting terminology in their prospectuses and using value strategies, which leverage accounting signals. Excess portfolio turnover following the implementation of accounting standards appears to be a driving factor of the quant underperformance. Additional evidence connects the fund-level results to the specific stocks that were affected by the accounting standards. Overall, our results suggest quant funds are generally proficient at adapting to accounting changes, although material changes occasionally put them at a temporary disadvantage relative to discretionary investors.
 
 **Working Papers**
