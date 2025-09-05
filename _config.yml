@@ -11,7 +11,7 @@ title                    : "Fred Asante"
 title_separator          : "-"
 name                     : &name "Fred Asante"
 description              : &description "personal description"
-url                      : https://fred-asante.github.io/
+url                      : https://fred-asante.github.io//
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"https://fred-asante.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
