@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor in the Stan Ross Department of Accountancy at Baruch College.
+ I am currently a fifth year Ph.D. candidate in accounting at Johnson College of Business, Cornell University. I received an MBA from Wake Forest University and a BBA in Accounting  (with high distinction) from Howard University.  
+ 
+My research interests lie in the intersection of accounting, banking, contracting, corporate social responsibility and development economics, with a specific focus on how debt markets, financial and supply chain regulation shape economic behavior in developed and developing economies. In financial regulation, my research broadly explores how the harmonization of regulation affects decision-making of local financial institutions.
 
-I hold a Ph.D. in accounting from Cornell University. In my research, I use archival methods to examine issues related to financial reporting. Broadly speaking, I am interested in how financial information is produced and utilized in capital markets. More specifically, my current research interests lie in emerging technologies, the real effects of accounting, and the changing dynamics between public and private firms. Another strand of my research explores how individual characteristics and behaviors shape the information environment.
+Prior to joining the Johnson Ph.D. program in 2021, I held various roles at Bank of America within corporate finance and commercial banking. I have previous experience at Deloitte & Touche, J.P. Morgan and Lockheed Martin
 
-Before embarking on my academic journey, I worked as an auditor at Deloitte in Toronto, Canada.
-
-See [here](/Research/) for more about my research.
+See [here](/Research/) for more about my research. Also see my ([CV]) here. 
