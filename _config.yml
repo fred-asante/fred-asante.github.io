@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elisha Yu"
+title                    : "Fred Asante"
 title_separator          : "-"
-name                     : &name "Elisha Yu"
+name                     : &name "Fred Asante"
 description              : &description "personal description"
-url                      : https://elishayu.com/ #https://elisha-yu.github.io #http://elishayu.com/ #https://elisha-yu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fredaasante.github.io/fred-asante.github.io//
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "elisha-yu/elisha-yu.github.io"
+repository               : #"https://fred-asante.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Elisha Yu"
-  avatar           : elisha_profile_2.jpg
-  bio              : "Assistant Professor @ Baruch College"
-  location         : "New York City"
-  employer         : # "Baruch College"
+  name             : "Fred Asante"
+  avatar           : profile.png
+  bio              : "Ph.D Candidate"
+  location         : "USA"
+  employer         : "Cornel University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
-  email            : "elisha.yu@baruch.cuny.edu"
+  email            : "faa48@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : # "https://www.johnson.cornell.edu/programs/phd-program/current-students/jy895/"
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "elishayu8"
+  linkedin         : "fred-asante-60a11315/"
   orcid            :
   pinterest        :
   soundcloud       :
